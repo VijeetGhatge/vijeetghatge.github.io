@@ -9,4 +9,4 @@ tags:
   - standard
 ---
 
-<embed src="/assets/capstone_dhma.pdf" type="application/pdf" width=100%>
+<object data="/assets/capstone_dhma.pdf" type="application/pdf" width=100%></object>
