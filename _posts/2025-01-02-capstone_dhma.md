@@ -10,6 +10,3 @@ tags:
 ---
 
 This is my Momentum Tracking Strategy project <a href="/assets/capstone_dhma.pdf">[PDF]</a>
-
-
-<object data="/assets/capstone_dhma.pdf" type="application/pdf" width=100%></object>
