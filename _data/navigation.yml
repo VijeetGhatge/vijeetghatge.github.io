@@ -5,3 +5,5 @@ main:
 #    url: /projects/
   - title: "Research"
     url: /research/
+- title: "About Me"
+    url: /aboutme/
